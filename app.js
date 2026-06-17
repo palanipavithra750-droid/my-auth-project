@@ -43,5 +43,5 @@ app.get('/dashboard', verifyToken, (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Server running on port ${POR
-                                                             T}`));
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
