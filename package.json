@@ -1,7 +1,6 @@
 {
   "name": "my-auth-project",
   "version": "1.0.0",
-  "description": "Authentication project",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
